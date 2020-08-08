@@ -24,4 +24,4 @@ an explicit boundary description whilst the number of design variables dramatica
 - Hung Nguyen-Xuan
 
 # References:
- Van-Nam Hoang, H. Nguyen-Xuan, Extruded-geometric-component-based 3D topology optimization, Computer Methods in Applied Mechanics and Engineering, in press, 2020 (Q1)
+ Van-Nam Hoang, H. Nguyen-Xuan, Extruded-geometric-component-based 3D topology optimization, Computer Methods in Applied Mechanics and Engineering, 371, 113293, 2020 https://doi.org/10.1016/j.cma.2020.113293.
